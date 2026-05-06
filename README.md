@@ -88,6 +88,10 @@
 
 Tkinter 通常随 Python 官方安装包一起安装。如果运行时报 `_tkinter` 相关错误，建议安装 Python 官方完整版。
 
+## 界面截图
+
+![Preview](./screenshots/preview.png)
+
 ## 快速开始
 
 ### 1. 下载源码
