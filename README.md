@@ -192,6 +192,12 @@ pyinstaller --onefile --name MemoCalendarReminder MemoCalendarReminder.py
 
 确认没有问题后，再使用 `--noconsole` 生成正式版本。
 
+推荐使用这个命令：
+
+```bat
+pyinstaller --onefile --windowed --clean --name MemoCalendarReminder MemoCalendarReminder.py
+```
+
 ## 推荐目录结构
 
 ```text
